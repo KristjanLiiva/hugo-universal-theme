@@ -43,6 +43,7 @@ function map () {
         style: 'SMALL',
         position: 'TOP_LEFT'
       },
+      zoom: 5,
       panControl: false,
       streetViewControl: false,
       mapTypeControl: false,
